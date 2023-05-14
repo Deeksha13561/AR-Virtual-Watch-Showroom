@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="watchtarget" size="5.000000 5.000000" />
+    <ImageTarget name="Watccard" size="5.000000 2.445489" />
+    <ImageTarget name="WdJ0VfUdK6F204Udb3HYQDd4" size="6.000000 3.941860" />
+  </Tracking>
+</QCARConfig>

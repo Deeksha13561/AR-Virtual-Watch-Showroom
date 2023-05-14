@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: e03e4c04906cd0f47a309edf1b051fe2
+  - enabled: 1
+    path: Assets/Scenes/SignInScene.unity
+    guid: 7c1bf5824bf60b94286dc91b29803527
+  - enabled: 1
+    path: Assets/Scenes/SignUpScene.unity
+    guid: 3197f22c0c36d3647bdec20c7417b724
+  - enabled: 1
+    path: Assets/Scenes/AR watch tryout-1.unity
+    guid: 2b376694b199e134cb4e27bd8b915216
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 443e1d6dba71875479c7baa37e777fdd
+  - enabled: 1
+    path: Assets/Scenes/AR video playback-2.unity
+    guid: 35dad76b22c85954da21023f6593af5d
+  - enabled: 1
+    path: Assets/Scenes/virtual button-3.unity
+    guid: 00727f3ccebf95044be74a84ad0edb20
+  m_configObjects: {}
